@@ -1,11 +1,11 @@
 {
-    "title": "Emergency Site",
-    "url": "https://emergency-site.dev",
-    "description": "A boilerplate for emergency information websites.",
-    "lang": "en",
-    "dateFormat": "dd LLLL yyyy, T",
+    "title": "Sample emergency site",
+    "url": "https://vigorous-yalow-3bdd71.netlify.com/",
+    "description": "Sample emergency information website",
+    "lang": "se",
+    "dateFormat": "yymmdd, T",
     "contact": {
         "email": "information@emergency.org",
-        "telephone": "+01 234 567 890"
+        "telephone": "N/A"
     }
 }
